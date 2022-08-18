@@ -44,9 +44,7 @@
 
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
+
 <img align="right"  src="https://i.pinimg.com/originals/da/c3/8f/dac38faf997774aa22a78ec3b6283444.gif" alt="prituyadav"  />
 ## 📊 My Github Stats
 <!--   <br/> -->
