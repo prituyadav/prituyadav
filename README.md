@@ -1,4 +1,4 @@
-<img align="center" border-radius="15%"   height="290" width="100%"  src="https://c.tenor.com/OiB1gkwl37wAAAAC/digital-marketing-noida-seo.gif">
+<img align="center" border-radius="20px"   height="290" width="100%" src="https://c.tenor.com/kPFwRPvrZD8AAAAC/marketing-mercadeo.gif ">
 <h1 align="center"  >Hi 👋, I'm Pritu Yadav</h1>
 
 
