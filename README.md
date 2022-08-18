@@ -30,6 +30,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritu2022&show_icons=true&locale=en&layout=compact" alt="pritu2022" /></p>
 
+<img  align="right" height="650" style="max-width:200%; display:inline-block;" src="https://camo.githubusercontent.com/eb86a46a97822c021c0b6aef090bb243d2bf107d394afa3d708fc975e7959dcd/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f64612f63332f38662f64616333386661663939373737346161323261373865633362363238333434342e676966">
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritu2022&show_icons=true&locale=en" alt="pritu2022" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritu2022&" alt="pritu2022" /></p>
