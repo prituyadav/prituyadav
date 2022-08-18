@@ -1,4 +1,4 @@
-<img align="center"  height="290" width="820"  src="https://media3.giphy.com/media/xT9IgqLDd5yOxGK35K/giphy.gif?cid=790b76111d4bf6b0c3d4e9d95542efeefdafabca8fc66a38&rid=giphy.gif&ct=g">
+<img align="center" border-radius="20px" height="290" width="100%"  src="https://media3.giphy.com/media/xT9IgqLDd5yOxGK35K/giphy.gif?cid=790b76111d4bf6b0c3d4e9d95542efeefdafabca8fc66a38&rid=giphy.gif&ct=g">
 <h1 align="center"  >Hi 👋, I'm Pritu Yadav</h1>
 
 
