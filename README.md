@@ -3,7 +3,7 @@
 
 <h3 align="center">A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, and web design, and web API designs. Problem-solving mindset with a goal to optimize my application for better stability and speed. Love to work in a team.</h3>
 
-<img align="right" src="https://camo.githubusercontent.com/7f60e7e90bf365a72293499929fb13b91b34b52440685be8c21fa900e9d19b86/68747470733a2f2f6c797368746563686e6f6c6f67792e636f6d2f61646d696e2f6173736574732f696d672f616e696d6174696f6e5f696d616765732f646576656c6f7065722e676966">
+<img align="right" height="400" width="420" src="https://camo.githubusercontent.com/7f60e7e90bf365a72293499929fb13b91b34b52440685be8c21fa900e9d19b86/68747470733a2f2f6c797368746563686e6f6c6f67792e636f6d2f61646d696e2f6173736574732f696d672f616e696d6174696f6e5f696d616765732f646576656c6f7065722e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritu2022&label=Profile%20views&color=0e75b6&style=flat" alt="pritu2022" /> </p>
 
