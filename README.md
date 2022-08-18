@@ -1,4 +1,4 @@
-<img align="center" border-radius="20px"   height="290" width="100%" src="https://cdn.kibrispdr.org/data/1779/gif-strategy-31.gif ">
+<img align="center" border-radius="20px"   height="290" width="100%" src="https://cdn.kibrispdr.org/data/1779/gif-strategy-31.gif">
 <h1 align="center"  >Hi 👋, I'm Pritu Yadav</h1>
 
 
