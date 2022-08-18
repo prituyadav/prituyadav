@@ -47,8 +47,10 @@
 <br/>
 <br/>
 ## 📊 My Github Stats
-<img align="right"  src="https://i.pinimg.com/originals/da/c3/8f/dac38faf997774aa22a78ec3b6283444.gif" alt="prituyadav"  />
+
 <!--   <br/> -->
+
+<img align="right"  src="https://i.pinimg.com/originals/da/c3/8f/dac38faf997774aa22a78ec3b6283444.gif" alt="prituyadav"  />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritu2022&langs_count=8&count_private=true&layout=en&theme=react&hide_border=true&bg_color=0D1117" alt="pritu2022" /></p>
 
