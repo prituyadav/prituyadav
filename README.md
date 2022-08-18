@@ -41,11 +41,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritu2022&show_icons=true&locale=en&layout=compact" alt="pritu2022" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritu2022&show_icons=true&locale=en" alt="pritu2022" /></p>
-
   <br/>
-<!--   /*<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.-> -->
+     <b>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</b>
  <br/>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritu2022&show_icons=true&locale=en" alt="pritu2022" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritu2022&" alt="pritu2022" /></p>
 
