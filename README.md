@@ -5,7 +5,7 @@
 
 <h3 align="center"  >A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, and web design, and web API designs. Problem-solving mindset with a goal to optimize my application for better stability and speed. Love to work in a team.</h3>
 
-<hr>
+
 
 <img align="right" height="400" width="420" src="https://camo.githubusercontent.com/7f60e7e90bf365a72293499929fb13b91b34b52440685be8c21fa900e9d19b86/68747470733a2f2f6c797368746563686e6f6c6f67792e636f6d2f61646d696e2f6173736574732f696d672f616e696d6174696f6e5f696d616765732f646576656c6f7065722e676966">
 
@@ -38,15 +38,13 @@
 
 ## 📊 My Github Stats
 <!--   <br/> -->
+<img align="right"  src="https://i.pinimg.com/originals/da/c3/8f/dac38faf997774aa22a78ec3b6283444.gif" alt="prituyadav"  />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritu2022&show_icons=true&locale=en&layout=compact" alt="pritu2022" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritu2022&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="pritu2022" /></p>
 
-  <br/>
-     <b>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</b>
- <br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritu2022&show_icons=true&locale=en" alt="pritu2022" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritu2022&langs_count=8&count_private=true&layout=en&theme=react&hide_border=true&bg_color=0D1117" alt="pritu2022" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritu2022&" alt="pritu2022" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritu2022&&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="pritu2022" /></p>
 
 [![Pritu2022's github activity graph](https://activity-graph.herokuapp.com/graph?username=Pritu2022&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
