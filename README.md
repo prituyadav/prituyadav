@@ -1,4 +1,4 @@
-<img align="center" border-radius="40px" height="290" width="100%"  src="https://thumbs.gfycat.com/AdorableImportantCaecilian-max-1mb.gif">
+<img align="center" border-radius="15%"   height="290" width="100%"  src="https://thumbs.gfycat.com/AdorableImportantCaecilian-max-1mb.gif">
 <h1 align="center"  >Hi 👋, I'm Pritu Yadav</h1>
 
 
