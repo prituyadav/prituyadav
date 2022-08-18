@@ -1,4 +1,4 @@
-<img src="[https://camo.githubusercontent.com/3015c6f34ed5c2131bac41a22b7a27a847f65803d232c99fe31f649c9c746fbd/68747470733a2f2f7777772e61616469747269746563686e6f6c6f67792e636f6d2f696d616765732f726564657369676e2e676966](https://media0.giphy.com/media/xT9IgqLDd5yOxGK35K/giphy.gif)">
+<img align="center"  height="330" width="920"  src="https://media3.giphy.com/media/xT9IgqLDd5yOxGK35K/giphy.gif?cid=790b76111d4bf6b0c3d4e9d95542efeefdafabca8fc66a38&rid=giphy.gif&ct=g">
 <h1 align="center"  >Hi 👋, I'm Pritu Yadav</h1>
 
 
