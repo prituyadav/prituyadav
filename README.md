@@ -1,4 +1,4 @@
-<img align="center" border-radius="20px"   height="150" width="100%" src="http://images.lazygamer.net/2013/12/flatline-o.gif">
+<img align="center" border-radius="20px"   height="150" width="100%" src="https://gulposh.files.wordpress.com/2014/10/lifeline.gif">
 <h1 align="center"  >Hi 👋, I'm Pritu Yadav</h1>
 
 
