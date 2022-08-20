@@ -17,6 +17,8 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
+- 👨‍💻 All of my projects are available at [https://prituyadav.netlify.app/](https://prituyadav.netlify.app/)
+
 - 💬 Ask me about **JAVA/JavaScript**
 
 - 📫 How to reach me **privinwatie021@gmail.com**
