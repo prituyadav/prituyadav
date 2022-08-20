@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://pritu2022.github.io/Portfolio/](https://pritu2022.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://pritu2022.github.io/Portfolio/)
 
 - 💬 Ask me about **JAVA/JavaScript**
 
