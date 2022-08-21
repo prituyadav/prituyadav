@@ -1,4 +1,4 @@
-<img align="center" border-radius="20px"   height="100" width="100%" src="https://gulposh.files.wordpress.com/2014/10/lifeline.gif">
+
 <h1 align="center"  >Hi 👋, I'm Pritu Yadav</h1>
 
 
@@ -7,7 +7,7 @@
 
 
 
-<img align="right" height="400" width="420" src="https://media.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif">2
+<img align="right" height="400" width="420" src="https://thumbs.gfycat.com/ContentHeftyGuillemot-size_restricted.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritu2022&label=Profile%20views&color=0e75b6&style=flat" alt="pritu2022" /> </p>
 
