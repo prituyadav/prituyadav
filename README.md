@@ -7,7 +7,7 @@
 
 
 
-<img align="right" height="390" width="400" border-radius="20%" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif">
+<img align="right" height="400" width="400" border-radius="20%" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritu2022&label=Profile%20views&color=0e75b6&style=flat" alt="pritu2022" /> </p>
 
