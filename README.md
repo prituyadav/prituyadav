@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently pursuing **JAVA Backend**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Java Backend Development**
 
 - 💬 Ask me about **JAVA/JavaScript**
 
