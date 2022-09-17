@@ -17,6 +17,8 @@
 
 - 🌱 I’m currently learning **Java Backend Development**
 
+- 👨‍💻 All of my projects are available at [Portfolio](https://pritu2022.github.io/Pritu_Yadav_Portfolio/)
+
 - 💬 Ask me about **JAVA/JavaScript**
 
 - 📫 How to reach me **privinwatie021@gmail.com**
