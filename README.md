@@ -12,10 +12,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritu2022&label=Profile%20views&color=0e75b6&style=flat" alt="pritu2022" /> </p>
 
 
-
-
-<p align="left"> <a href="https://twitter.com/pritucandle" target="blank"><img src="https://img.shields.io/twitter/follow/pritucandle?logo=twitter&style=for-the-badge" alt="pritucandle" /></a> </p>
-
 - 🔭 I’m currently pursuing **JAVA Backend**
 
 - 🌱 I’m currently learning **Java Backend Development**
