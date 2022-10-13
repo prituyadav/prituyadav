@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://prituyadav-portfolio.netlify.app/)
 
-- 💬 Ask me about **JAVA/JavaScript**
+- 💬 Ask me about **JAVA | JavaScript**
 
 - 📫 How to reach me **privinwatie021@gmail.com**
 
