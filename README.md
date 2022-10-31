@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Java Backend Development**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://prituyadav-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://pritu2022.github.io/)
 
 - 💬 Ask me about **JAVA | JavaScript**
 
