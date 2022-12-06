@@ -6,7 +6,7 @@
 <h3 align="center"  >A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, and web design, and web API designs. Problem-solving mindset with a goal to optimize my application for better stability and speed. Love to work in a team.</h3>
 
 
-<img align="right" src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="250"/>
+<img align="right" src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="380" height="250"/>
 
 <!-- <img align="right" height="358" width="393" border-radius="033399999999999oo5%" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif">  -->
 
