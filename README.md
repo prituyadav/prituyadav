@@ -8,7 +8,7 @@
 
 <img align="right" src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="390" height="315"/>
 
-<!-- <img align="right" height="358" width="393" border-radius="033399999999999oo5%" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif">  -->
+<!-- <img align="right" height="358" width="393" border-radius="0339999oo5%" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif">  -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritu2022&label=Profile%20views&color=0e75b6&style=flat" alt="pritu2022" /> </p>
 
