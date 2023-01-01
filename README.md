@@ -55,6 +55,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritu2022&&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="pritu2022" /></p>
 
+<br/>
 
-
+[![Pritu2022's github activity graph](https://activity-graph.herokuapp.com/graph?username=Pritu2022&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Pritu2022's github activity graph](https://activity-graph.herokuapp.com/graph?username=Pritu2022&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
