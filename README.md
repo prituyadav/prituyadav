@@ -17,6 +17,8 @@
 
 - 🌱 I’m currently learning **Java Backend Development**
 
+- 👨‍💻 All of my details are available at [Resume](https://drive.google.com/file/d/1LrgVEyORUfrz9VA-CZ0ZXrG0GaHaWMQM/view?usp=sharing)
+
 - 👨‍💻 All of my projects are available at [Portfolio](https://pritu2022.github.io/)
 
 - 💬 Ask me about **JAVA | JavaScript**
