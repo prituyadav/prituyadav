@@ -63,5 +63,4 @@
 
 [![Pritu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pritu2022&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- [![Pritu2022's github activity graph](https://activity-graph.herokuapp.com/graph?username=Pritu2022&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Pritu2022's github activity graph](https://activity-graph.herokuapp.com/graph?username=Pritu2022&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+
