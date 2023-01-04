@@ -42,6 +42,8 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritu2022&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="pritu2022" /></p> -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pritu2022&layout=compact)](https://github.com/Pritu2022/github-readme-stats)
+
 </br>
 </br>
 </br>
