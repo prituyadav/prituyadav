@@ -45,11 +45,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pritu2022&layout=compact)](https://github.com/Pritu2022/github-readme-stats)
 
 </br>
-</br>
-</br>
-</br>
-</br>
-</br>
+
 
 ## 📊 My Github Stats
 
