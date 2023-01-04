@@ -54,7 +54,9 @@
 <!--   <br/> -->
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritu2022&langs_count=8&count_private=true&layout=en&theme=react&hide_border=true&bg_color=0D1117" alt="pritu2022" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritu2022&langs_count=8&count_private=true&layout=en&theme=react&hide_border=true&bg_color=0D1117" alt="pritu2022" /></p> -->
+
+![Pritu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pritu2022&show_icons=true&theme=radical)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritu2022&&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="pritu2022" /></p>
 
