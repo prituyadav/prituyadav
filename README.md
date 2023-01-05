@@ -139,8 +139,8 @@
 
 
 
-<!-- 
-[![Pritu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pritu2022&theme=merko&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+
+[![Pritu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pritu2022)](https://github.com/Pritu2022/github-readme-activity-graph)
 
  ## ❤  Followers
 
