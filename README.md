@@ -28,15 +28,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritu2022&label=Profile%20views&color=0e75b6&style=flat" alt="pritu2022" /> </p>
 
 
-- 🔭 I’m currently pursuing **JAVA Backend**
+- 🔭 I’m currently pursuing **Java Backend Development**
 
-- 🌱 I’m currently learning **Java Backend Development**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 
+- 💬 Ask me about anything related to **Java Backend  and related technologies**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my details are available at [Resume](https://drive.google.com/file/d/1LrgVEyORUfrz9VA-CZ0ZXrG0GaHaWMQM/view?usp=sharing)
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://pritu2022.github.io/)
-
-- 💬 Ask me about anything related to **Java Backend  and related technologies**
 
 - 📫 How to reach me **privinwatie021@gmail.com**
 
