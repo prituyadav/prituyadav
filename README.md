@@ -114,7 +114,7 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritu2022&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="pritu2022" /></p> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pritu2022&layout=compact)](https://github.com/Pritu2022/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pritu2022&layout=compact)](https://github.com/Pritu2022/github-readme-stats) -->
 
 ## 📊 My Github Stats
 
@@ -134,7 +134,7 @@
 
  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pritu2022" alt="Pritu Yadav" /></p>
 <br/>
-<!--  <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pritu2022&show_icons=true&locale=en&layout=compact" alt="Pritu Yadav" /></p> -->
+ <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pritu2022&show_icons=true&locale=en&layout=compact" alt="Pritu Yadav" /></p>
  <br/>
 
 
