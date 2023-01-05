@@ -36,9 +36,11 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://pritu2022.github.io/)
 
-- 💬 Ask me about **JAVA | JavaScript**
+- 💬 Ask me about anything related to **Java Backend  and related technologies**
 
 - 📫 How to reach me **privinwatie021@gmail.com**
+
+- ⚡ Fun fact **Internet is soil & coding is plant for me**
 
 <hr>
 
