@@ -19,7 +19,9 @@
 
 
 <!-- <img align="right" src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="399" height="396"/> -->
-<img align="right" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width="419" height="406"/>
+<!-- <img align="right" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width="419" height="406"/> -->
+
+<img align="right" src="https://cdn.dribbble.com/users/5950507/screenshots/15172610/media/3a55b2636de40cb3114a58cf7cc8d62d.gif" width="419" height="406"/>
 
 <!-- <img align="right" height="358" width="393" border-radius="999" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif">  -->
 
