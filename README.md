@@ -120,4 +120,9 @@
 
 [![Pritu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pritu2022&theme=merko&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+ ## ❤  Followers
+<!-- <a href="https://github.com/br-lovanshi/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Pritu2022">
+</a> -->
+<a href="https://github.com/Pritu2022?tab=followers"><img src="https://img.shields.io/github/followers/Pritu2022?label=Followers&style=social" alt="GitHub Badge"></a>
 
