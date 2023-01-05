@@ -18,7 +18,8 @@
 <hr color="blue"/>
 
 
-<img align="right" src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="399" height="396"/>
+<!-- <img align="right" src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="399" height="396"/> -->
+<img align="right" src="https://lh3.googleusercontent.com/PMsFnMWLrNFjJROfW_PEMilkO5johCAt4kj5S7i4FIJvDbtBHVfxzaqZGOWI0AvDPETv6ffkc91YWX_t-gMfgYnvW7iMDHhwZkCw=w780" width="419" height="456"/>
 
 <!-- <img align="right" height="358" width="393" border-radius="999" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif">  -->
 
