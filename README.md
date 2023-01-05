@@ -36,6 +36,29 @@
 <!-- <a href="https://www.leetcode.com/pritu2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pritu2022" height="30" width="40" /></a> -->
 </p>
  <hr>
+ ## 🚀 Languages and Tools:
+
+
+### 👉 Frontend Development
+<p align="center"> 
+  &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank">   
+   <img width="75px" alt="HTML" src="https://img.icons8.com/color/344/html-5.png">
+  </a>   
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img width="75px" alt="CSS" src="https://img.icons8.com/color/344/css3.png">
+  </a> 
+	&emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img width="75px" alt="JavaScript" src="https://img.icons8.com/color/344/javascript.png">
+   </a>
+	&emsp;
+	<a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started" target="_blank"> 
+     <img width="75px" alt="Bootstrap" src="https://img.icons8.com/color/48/000000/bootstrap.png">
+   </a>
+</p>
+
 
 ### 👉 Backend Development
 <p align="center" background-color="yellow"> 
