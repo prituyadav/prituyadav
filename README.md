@@ -1,9 +1,21 @@
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="38"> there, fellow DEVELOPER'S</h1>
+<h3 align="center">I'm a passionate Software Developer from India.</h3>
 
-<h1 align="center"  >Hi 👋, I'm Pritu Yadav</h1>
+<p align="center">
+<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="40" /> <b><i align="center">Thought : "Hard work beats talent, when talent doesn't work Hard!!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+</p>
+<!-- <p>An aspiring Java Back-end Developer. Collaborative, team player who can work with teams and be productive. Interested in obtaining a Software Developer position. Always like to learn new skills and technologies.</p>  -->
+  
+  <p>A very enthusiastic self-motivated and hard-working back-end developer with proficiency in Java. I believe that the solution to real-world problems is modern technology.Problem-solving mindset and hands-on experience in developing 3 fully working collaborative projects.</p>
 
+<div align="center">
+  
+  <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+Hey!+It's+Brajesh!;I'm+a+Software+Developer.;❤+Java+LeetCode+web3.0;I+❤+DSA..)](https://git.io/typing-svg)
+</div>
 
-
-<h3 align="center"  >A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, and web design, and web API designs. Problem-solving mindset with a goal to optimize my application for better stability and speed. Love to work in a team.</h3>
+<hr color="blue"/>
 
 
 <img align="right" src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="399" height="396"/>
