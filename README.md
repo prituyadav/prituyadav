@@ -42,7 +42,7 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritu2022&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="pritu2022" /></p> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pritu2022&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/Pritu2022/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pritu2022&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/Pritu2022/github-readme-stats)
 
 ## 📊 My Github Stats
 
@@ -58,6 +58,6 @@
 <br/>
 
 
-[![Pritu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pritu2022&theme=radical&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Pritu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pritu2022&theme=react&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
