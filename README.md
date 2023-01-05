@@ -122,15 +122,25 @@
 
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritu2022&langs_count=8&count_private=true&layout=en&theme=react&hide_border=true&bg_color=0D1117" alt="pritu2022" /></p> -->
+<!-- 
+<p align="center">![Pritu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pritu2022&show_icons=true&theme=radical)</p>
 
-![Pritu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pritu2022&show_icons=true&theme=radical)
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritu2022&&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="pritu2022" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritu2022&&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="pritu2022" /></p>
+<br/> -->
 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Pritu2022&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 <br/>
 
+ <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pritu2022" alt="Pritu Yadav" /></p>
+<br/>
+ <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pritu2022&show_icons=true&locale=en&layout=compact" alt="Pritu Yadav" /></p>
+ <br/>
 
-[![Pritu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pritu2022&theme=merko&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<!-- 
+[![Pritu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pritu2022&theme=merko&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
  ## ❤  Followers
 
