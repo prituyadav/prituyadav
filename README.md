@@ -136,12 +136,12 @@
 
 <br/> -->
 
-<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Pritu2022&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  -->
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Pritu2022&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 <br/>
 
  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pritu2022" alt="Pritu Yadav" /></p>
 <br/>
- <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pritu2022&show_icons=true&locale=en&layout=compact" alt="Pritu Yadav" /></p>
+<!--  <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pritu2022&show_icons=true&locale=en&layout=compact" alt="Pritu Yadav" /></p> -->
  <br/>
 
 
