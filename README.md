@@ -23,7 +23,7 @@
 
 <img align="right" src="https://cdn.dribbble.com/users/5950507/screenshots/15172610/media/3a55b2636de40cb3114a58cf7cc8d62d.gif" width="419" height="435"/>
 
-<!-- <img align="right" height="358" width="393" border-radius="9999999" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif">  -->
+<!-- <img align="right" height="358" width="393" border-radius="999" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif">  -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritu2022&label=Profile%20views&color=0e75b6&style=flat" alt="pritu2022" /> </p>
 
