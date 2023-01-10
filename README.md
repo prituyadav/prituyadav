@@ -96,12 +96,17 @@
  <a href="" target="_blank"> 
    <img width="75px" alt="Hibernate" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg">
   </a> 
-	
+	  <a href="" target="_blank"> 
+   <img width="75px" alt="BOOT" src="https://suraj-996.github.io/images/spring-boot-logo.png">
+  </a> 
   <a href="" target="_blank"> 
    <img width="75px" alt="MySql" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png">
   </a> 
   <a href="" target="_blank"> 
    <img width="75px" alt="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+  </a> 
+   <a href="" target="_blank"> 
+   <img width="75px" alt="aws" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3YAVEhwvLis_BDcbDV0WUOeYAkISG4NETAQ&usqp=CAU">
   </a> 
    
 </p>
