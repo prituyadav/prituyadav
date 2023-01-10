@@ -105,6 +105,8 @@
 ### 👉 Software & Tools
  
 <p align="center">
+	<a href="#"><img width="75px" alt="sts" src="https://lalitk1997.github.io/img/logo-spring-tools-gear-3dbfa4e3714afa9d58885422ec7ac8e5.svg" /></a>
+	 <a href="#"><img width="75px" alt="intellij" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png"/></a>
   <a href = "#"><img width="75px" alt="vscode editer" src="https://img.icons8.com/color/344/visual-studio--v1.png" /></a>
     <a href="#"><img width="75px" alt="Git" src="https://img.icons8.com/color/344/git.png" /></a>
   &emsp;
