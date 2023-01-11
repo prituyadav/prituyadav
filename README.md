@@ -160,6 +160,5 @@
 
 <a href="https://github.com/Pritu2022?tab=followers"><img src="https://img.shields.io/github/followers/Pritu2022?label=Followers&style=social" alt="GitHub Badge"></a>
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=067FD0&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 100%;">
-
-
- <a href="#"><img width="75px" alt="water" src="https://raw.githubusercontent.com/Trilokia/Triloki…c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" /></a>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<p align="left"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"></p>
