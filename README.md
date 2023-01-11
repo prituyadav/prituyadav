@@ -153,14 +153,13 @@
  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pritu2022" alt="Pritu Yadav" /></p>
 <br/>
 <!--  <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pritu2022&show_icons=true&locale=en&layout=compact" alt="Pritu Yadav" /></p> -->
- <br/>
-
-
-
-
+<!--  <br/> -->
 <!-- [![Pritu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pritu2022)](https://github.com/Pritu2022/github-readme-activity-graph) -->
 
- ## ❤  Followers
+ ##  ❤  Followers
 
 <a href="https://github.com/Pritu2022?tab=followers"><img src="https://img.shields.io/github/followers/Pritu2022?label=Followers&style=social" alt="GitHub Badge"></a>
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=067FD0&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 100%;">
+
+
+ <a href="#"><img width="75px" alt="water" src="https://raw.githubusercontent.com/Trilokia/Triloki…c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" /></a>
