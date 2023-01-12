@@ -136,20 +136,9 @@
 
 ## 📊 My Github Stats
 
-<!--   <br/> -->
-
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritu2022&langs_count=8&count_private=true&layout=en&theme=react&hide_border=true&bg_color=0D1117" alt="pritu2022" /></p> -->
-<!-- 
-<p align="center">![Pritu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pritu2022&show_icons=true&theme=radical)</p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritu2022&&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="pritu2022" /></p>
-
-<br/> -->
-
 <p align="center">
 <a href="https://github.com/Pritu2022">
-  <img align="left" height="158em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pritu2022&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img align="center" height="178em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pritu2022&show_icons=true&include_all_commits=true&count_private=true"/>
 <!--   <img align="right" height="158em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahtishamkhan5678&layout=compact&langs_count=8&theme=algolia"/> -->
 </a>
 </p>
