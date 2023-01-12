@@ -149,7 +149,7 @@
 
 <!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Pritu2022&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  -->
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Pritu2022)](https://github.com/Pritu2022/github-readme-stats" align="center" /></div>
+[![Pritu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pritu2022)](https://github.com/Pritu2022/github-readme-stats)
 
 
 <br/>
