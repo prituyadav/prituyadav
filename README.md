@@ -147,10 +147,13 @@
 
 <br/> -->
 
-<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Pritu2022&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  -->
-<!-- 
-[![Pritu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pritu2022)](https://github.com/Pritu2022/github-readme-stats) -->
-![Pritu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pritu2022&show_icons=true)
+<p align="center">
+<a href="https://github.com/Pritu2022">
+  <img align="left" height="158em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pritu2022&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<!--   <img align="right" height="158em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahtishamkhan5678&layout=compact&langs_count=8&theme=algolia"/> -->
+</a>
+</p>
+
 
 
 <br/>
