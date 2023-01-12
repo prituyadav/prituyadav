@@ -138,7 +138,7 @@
 
 <p align="center">
 <a href="https://github.com/Pritu2022">
-  <img align="center" height="178em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pritu2022&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img align="center" height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pritu2022&show_icons=true&include_all_commits=true&count_private=true"/>
 <!--   <img align="right" height="158em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahtishamkhan5678&layout=compact&langs_count=8&theme=algolia"/> -->
 </a>
 </p>
