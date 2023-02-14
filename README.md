@@ -144,12 +144,12 @@
 </p>
 <!--   <p align="center"><img align="center" height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pritu2022" alt="Pritu Yadav" /></p>  -->
  
-<!--  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Pritu2022" alt="Pritu2022" /></p> -->
+ <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Pritu2022" alt="Pritu2022" /></p>
   
 
 <!--  <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pritu2022&show_icons=true&locale=en&layout=compact" alt="Pritu Yadav" /></p> -->
 
-[![Pritu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pritu2022)](https://github.com/Pritu2022/github-readme-activity-graph)
+<!-- [![Pritu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pritu2022)](https://github.com/Pritu2022/github-readme-activity-graph) -->
 
  ##  ❤  Followers
 
