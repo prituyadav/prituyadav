@@ -142,9 +142,9 @@
 <!--   <img align="right" height="158em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pritu2022&layout=compact&langs_count=8&theme=react"/> -->
 </a>
 </p>
-<!--   <p align="center"><img align="center" height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pritu2022" alt="Pritu Yadav" /></p>  -->
- 
- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Pritu2022" alt="Pritu2022" /></p>
+  <p align="center"><img align="center" height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pritu2022" alt="Pritu Yadav" /></p> 
+<!--  
+ <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Pritu2022" alt="Pritu2022" /></p> -->
   
 
 <!--  <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pritu2022&show_icons=true&locale=en&layout=compact" alt="Pritu Yadav" /></p> -->
