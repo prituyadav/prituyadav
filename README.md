@@ -1,5 +1,5 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="38"> there, fellow DEVELOPER'S</h1>
-<h3 align="center">I'm a passionate Software Developer from India.</h3>
+<h3 align="center">I am a passionate Software Developer from India.</h3>
 
 <p align="center">
 <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="40" /> <b><i align="center">Thought : "Hard work beats talent, when talent doesn't work Hard!!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
