@@ -13,7 +13,7 @@
 <h3 align="center">
 A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, and web design, and web API designs. Problem-solving mindset with a goal to optimize my application for better stability and speed. Love to work in a team.</h3>
 
-<hr color="blue"/>
+
 
 
 <!-- <img align="right" src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="399" height="396"/> -->
@@ -42,7 +42,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 - ⚡ Fun fact **Internet is soil & coding is plant for me**
 
-<hr>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -52,7 +52,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
   <a href="https://www.leetcode.com/pritu2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pritu2022" height="30" width="40" /></a> 
 	<a href="https://www.hackerrank.com/PrituYadav?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pritu_2022" height="30" width="40" /></a> 
 </p>
- <hr>
+
  
  ### 🚀 Languages and Tools:
 
