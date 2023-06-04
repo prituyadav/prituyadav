@@ -1,6 +1,4 @@
 <h1 align="center">Hello 👋, Developers</h1>
-<h3 align="center">
-A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, and web design, and web API designs. Problem-solving mindset with a goal to optimize my application for better stability and speed. Love to work in a team.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://lyshtechnology.com/admin/assets/img/animation_images/developer.gif">
 
@@ -11,6 +9,9 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+Hey!+It's+Pritu+Yadav!;I'm+a+Software+Developer.;❤+Java+LeetCode+web3.0;I+❤+DSA..)](https://git.io/typing-svg)
 </div>
+
+<h3 align="center">
+A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, and web design, and web API designs. Problem-solving mindset with a goal to optimize my application for better stability and speed. Love to work in a team.</h3>
 
 <hr color="blue"/>
 
