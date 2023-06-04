@@ -13,17 +13,13 @@
 <h3 align="center">
 A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, and web design, and web API designs. Problem-solving mindset with a goal to optimize my application for better stability and speed. Love to work in a team.</h3>
 
-
-
-
-<!-- <img align="right" src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="399" height="396"/> -->
-<!-- <img align="right" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width="419" height="406"/> -->
-
-<!-- <img align="right" src="https://cdn.dribbble.com/users/5950507/screenshots/15172610/media/3a55b2636de40cb3114a58cf7cc8d62d.gif" width="419" height="435"/>
- -->
-<!-- <img align="right" height="358" width="393" border-radius="999" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif">  -->
-
+	
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritu2022&label=Profile%20views&color=0e75b6&style=flat" alt="pritu2022" /> </p>
+
+
+<!-- for leetcode
+
+<img align="right" src="https://leetcode.card.workers.dev/?username=Pritu2022&theme=auto" alt="Pritu2022" /> -->
 
 
 - 🔭 I’m currently pursuing **Java Backend Development**
@@ -41,7 +37,6 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 - 📫 How to reach me **privinwatie021@gmail.com**
 
 - ⚡ Fun fact **Internet is soil & coding is plant for me**
-
 
 
 <h3 align="left">Connect with me:</h3>
