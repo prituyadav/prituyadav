@@ -34,7 +34,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://pritu2022.github.io/)
 
-- 📫 How to reach me **privinwatie021@gmail.com**
+- 📫 How to reach me **erprituyadav@gmail.com**
 
 - ⚡ Fun fact **Internet is soil & coding is plant for me**
 
