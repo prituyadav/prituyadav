@@ -42,7 +42,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/pritu-yadav-21a587230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pritu-yadav-21a587230" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pritu-yadav-204872268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pritu-yadav-21a587230" height="30" width="40" /></a>
 <a href="https://twitter.com/pritucandle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pritucandle" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/pritu2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pritu2022" height="30" width="40" /></a> 
 	<a href="https://www.hackerrank.com/PrituYadav?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pritu_2022" height="30" width="40" /></a> 
