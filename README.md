@@ -22,7 +22,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 <img align="right" src="https://leetcode.card.workers.dev/?username=Pritu2022&theme=auto" alt="Pritu2022" /> -->
 
 
-- 🔭 I’m currently pursuing **Java Backend Development**
+- 🔭 I’m currently pursuing **Full Stack Java Development**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
  
