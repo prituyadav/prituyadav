@@ -90,24 +90,17 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 <hr color="blue"/>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritu2022&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="pritu2022" /></p> -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pritu2022&layout=compact)](https://github.com/Pritu2022/github-readme-stats) -->
-
 ## 📊 My Github Stats
-<p align="center">
+<div display="flex">
 <a href="https://github.com/Pritu2022">
-  <img align="center" height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pritu2022&show_icons=true&include_all_commits=true&count_private=true"/>
-	
-  <img align="right" height="70em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pritu2022&layout=compact&langs_count=8"/>
+  <img align="center" height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pritu2022&show_icons=true&include_all_commits=true&count_private=true&theme=react"/>
+  <img align="center" height="143em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pritu2022" alt="Pritu Yadav" />
+  <img align="right" height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pritu2022&layout=compact&langs_count=8&theme=react"/>
 </a>
-</p>
-  <p align="center"><img align="center" height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pritu2022" alt="Pritu Yadav" />
-	</p> 
+</div>
 
  ##  ❤  Followers
-
 <a href="https://github.com/Pritu2022?tab=followers"><img src="https://img.shields.io/github/followers/Pritu2022?label=Followers&style=social" alt="GitHub Badge"></a>
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=067FD0&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 100%;">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-<p align="left"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"></p>
+### ✍️ Random Developer Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
+
