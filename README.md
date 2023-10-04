@@ -11,63 +11,48 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 - 👨‍💻 All of my projects are available at [Portfolio](https://pritu2022.github.io/)
 - 📫 How to reach me **erprituyadav@gmail.com**
  
- ### 🚀 Languages and Tools:
-### Backend Development
+ ### 🚀 Technologies:
 <p align="left" background-color="yellow"> 
   <a href="" target="_blank"> 
    <img width="40px" alt="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
   </a>   
-  &emsp;	
   <a href="" target="_blank"> 
    <img width="40px" alt="Spring Boot" src="https://img.icons8.com/color/48/000000/spring-logo.png">
   </a> 
-  &emsp;
    <a href="" target="_blank"> 
    <img width="40px" alt="ms" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXUIpsgnqvv7QBhM_YF8TvyvvY0xilhccB7Q&usqp=CAU">
   </a> 
-   &emsp;
  <a href="" target="_blank"> 
    <img width="40px" alt="Hibernate" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg">
   </a> 
-	  &emsp;
 <a href="" target="_blank"> 
    <img width="40px" alt="BOOT" src="https://suraj-996.github.io/images/spring-boot-logo.png">
   </a> 
-	  &emsp;
   <a href="" target="_blank"> 
    <img width="40px" alt="MySql" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png">
   </a> 
-	  &emsp;
   <a href="" target="_blank"> 
    <img width="40px" alt="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
   </a> 
-	  &emsp;
    <a href="" target="_blank"> 
    <img width="47px" alt="aws" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3YAVEhwvLis_BDcbDV0WUOeYAkISG4NETAQ&usqp=CAU">
   </a> 
-   
-</p>
 
-### Frontend Development
-<p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank">   
    <img width="40px" alt="HTML" src="https://img.icons8.com/color/344/html-5.png">
   </a>   
-  &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img width="40px" alt="CSS" src="https://img.icons8.com/color/344/css3.png">
   </a> 
-	&emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img width="40px" alt="JavaScript" src="https://img.icons8.com/color/344/javascript.png">
    </a>
-	&emsp;
 	<a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started" target="_blank"> 
      <img width="40px" alt="Bootstrap" src="https://img.icons8.com/color/48/000000/bootstrap.png">
    </a>
 </p>
 
-### Software & Tools 
+### 👩‍💻 Software & Tools 
 <p align="left">
 	<a href="#"><img width="40px" alt="sts" src="https://lalitk1997.github.io/img/logo-spring-tools-gear-3dbfa4e3714afa9d58885422ec7ac8e5.svg" /></a>
 	  &emsp;
