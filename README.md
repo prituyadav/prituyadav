@@ -73,7 +73,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 </p>
 
 ### 👉 Frontend Development
-<p align="left"> 
+<p align="right"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank">   
    <img width="40px" alt="HTML" src="https://img.icons8.com/color/344/html-5.png">
