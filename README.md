@@ -41,39 +41,45 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
  
  ### 🚀 Languages and Tools:
 
-### 👉 Backend Development
+### Backend Development
 <p align="left" background-color="yellow"> 
   &emsp; 
   <a href="" target="_blank"> 
    <img width="40px" alt="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
   </a>   
-	
+  &emsp;	
   <a href="" target="_blank"> 
    <img width="40px" alt="Spring Boot" src="https://img.icons8.com/color/48/000000/spring-logo.png">
   </a> 
+  &emsp;
    <a href="" target="_blank"> 
    <img width="40px" alt="ms" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXUIpsgnqvv7QBhM_YF8TvyvvY0xilhccB7Q&usqp=CAU">
   </a> 
+   &emsp;
  <a href="" target="_blank"> 
    <img width="40px" alt="Hibernate" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg">
   </a> 
-	  <a href="" target="_blank"> 
+	  &emsp;
+<a href="" target="_blank"> 
    <img width="40px" alt="BOOT" src="https://suraj-996.github.io/images/spring-boot-logo.png">
   </a> 
+	  &emsp;
   <a href="" target="_blank"> 
    <img width="40px" alt="MySql" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png">
   </a> 
+	  &emsp;
   <a href="" target="_blank"> 
    <img width="40px" alt="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
   </a> 
+	  &emsp;
    <a href="" target="_blank"> 
-   <img width="56" alt="aws" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3YAVEhwvLis_BDcbDV0WUOeYAkISG4NETAQ&usqp=CAU">
+   <img width="40px" alt="aws" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3YAVEhwvLis_BDcbDV0WUOeYAkISG4NETAQ&usqp=CAU">
   </a> 
    
 </p>
 
-### 👉 Frontend Development
-<p align="right"> 
+### Frontend Development
+<p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank">   
    <img width="40px" alt="HTML" src="https://img.icons8.com/color/344/html-5.png">
@@ -92,14 +98,19 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
    </a>
 </p>
 
-### 👉 Software & Tools
+### Software & Tools
  
 <p align="left">
 	<a href="#"><img width="40px" alt="sts" src="https://lalitk1997.github.io/img/logo-spring-tools-gear-3dbfa4e3714afa9d58885422ec7ac8e5.svg" /></a>
-	 <a href="#"><img width="40px" alt="intellij" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png"/></a>	
+	  &emsp;
+	 <a href="#"><img width="40px" alt="intellij" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png"/></a>
+	  &emsp;
    <a href = "#"><img width="40px" alt="vscode editer" src="https://lalitk1997.github.io/img/swagger.svg" /></a>
+	  &emsp;
   <a href = "#"><img width="40px" alt="vscode editer" src="https://img.icons8.com/color/344/visual-studio--v1.png" /></a>
+	  &emsp;
     <a href="#"><img width="40px" alt="Git" src="https://img.icons8.com/color/344/git.png" /></a>
+	  &emsp;
     <a href="#"><img width="40px" alt="GitHub" src="https://img.icons8.com/ios-filled/344/github.png" /></a>
 
 </p> 
