@@ -93,9 +93,9 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 ## 📊 My Github Stats
 <div display="flex">
 <a href="https://github.com/Pritu2022">
-  <img height="110em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pritu2022&show_icons=true&include_all_commits=true&count_private=true&theme=react"/>
-  <img height="110em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pritu2022" alt="Pritu Yadav" />
-  <img height="110em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pritu2022&layout=compact&langs_count=8&theme=react"/>
+  <img height="115em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pritu2022&show_icons=true&include_all_commits=true&count_private=true&theme=react"/>
+  <img height="115em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pritu2022" alt="Pritu Yadav" />
+  <img height="115em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pritu2022&layout=compact&langs_count=8&theme=react"/>
 </a>
 </div>
 
