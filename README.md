@@ -13,14 +13,7 @@
 <h3 align="center">
 A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, and web design, and web API designs. Problem-solving mindset with a goal to optimize my application for better stability and speed. Love to work in a team..</h3>
 
-	
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritu2022&label=Profile%20views&color=0e75b6&style=flat" alt="pritu2022" /> </p>
-
-
-<!-- for leetcode
-
-<img align="right" src="https://leetcode.card.workers.dev/?username=Pritu2022&theme=auto" alt="Pritu2022" /> -->
-
 
 - 🔭 I’m currently pursuing **Full Stack Java Development**
 
@@ -36,14 +29,11 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 - 📫 How to reach me **erprituyadav@gmail.com**
 
-- ⚡ Fun fact **Internet is soil & coding is plant for me**
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/pritu-yadav-204872268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pritu-yadav-21a587230" height="30" width="40" /></a>
-<a href="https://twitter.com/pritucandle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pritucandle" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pritu-yadav-204872268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pritu-yadav-204872268" height="30" width="40" /></a>
+<a href="https://twitter.com/prituyadav23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pritucandle" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/pritu2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pritu2022" height="30" width="40" /></a> 
 	<a href="https://www.hackerrank.com/PrituYadav?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pritu_2022" height="30" width="40" /></a> 
 </p>
@@ -52,72 +42,72 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
  ### 🚀 Languages and Tools:
 
 ### 👉 Backend Development
-<p align="center" background-color="yellow"> 
+<p align="left" background-color="yellow"> 
   &emsp; 
   <a href="" target="_blank"> 
-   <img width="75px" alt="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
+   <img width="40px" alt="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
   </a>   
 	
   <a href="" target="_blank"> 
-   <img width="75px" alt="Spring Boot" src="https://img.icons8.com/color/48/000000/spring-logo.png">
+   <img width="40px" alt="Spring Boot" src="https://img.icons8.com/color/48/000000/spring-logo.png">
   </a> 
    <a href="" target="_blank"> 
-   <img width="92px" alt="ms" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXUIpsgnqvv7QBhM_YF8TvyvvY0xilhccB7Q&usqp=CAU">
+   <img width="40px" alt="ms" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXUIpsgnqvv7QBhM_YF8TvyvvY0xilhccB7Q&usqp=CAU">
   </a> 
  <a href="" target="_blank"> 
-   <img width="75px" alt="Hibernate" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg">
+   <img width="40px" alt="Hibernate" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg">
   </a> 
 	  <a href="" target="_blank"> 
-   <img width="75px" alt="BOOT" src="https://suraj-996.github.io/images/spring-boot-logo.png">
+   <img width="40px" alt="BOOT" src="https://suraj-996.github.io/images/spring-boot-logo.png">
   </a> 
   <a href="" target="_blank"> 
-   <img width="75px" alt="MySql" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png">
+   <img width="40px" alt="MySql" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png">
   </a> 
   <a href="" target="_blank"> 
-   <img width="75px" alt="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+   <img width="40px" alt="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
   </a> 
    <a href="" target="_blank"> 
-   <img width="96px" alt="aws" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3YAVEhwvLis_BDcbDV0WUOeYAkISG4NETAQ&usqp=CAU">
+   <img width="56" alt="aws" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3YAVEhwvLis_BDcbDV0WUOeYAkISG4NETAQ&usqp=CAU">
   </a> 
    
 </p>
 
 ### 👉 Frontend Development
-<p align="center"> 
+<p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank">   
-   <img width="75px" alt="HTML" src="https://img.icons8.com/color/344/html-5.png">
+   <img width="40px" alt="HTML" src="https://img.icons8.com/color/344/html-5.png">
   </a>   
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img width="75px" alt="CSS" src="https://img.icons8.com/color/344/css3.png">
+    <img width="40px" alt="CSS" src="https://img.icons8.com/color/344/css3.png">
   </a> 
 	&emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img width="75px" alt="JavaScript" src="https://img.icons8.com/color/344/javascript.png">
+     <img width="40px" alt="JavaScript" src="https://img.icons8.com/color/344/javascript.png">
    </a>
 	&emsp;
 	<a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started" target="_blank"> 
-     <img width="75px" alt="Bootstrap" src="https://img.icons8.com/color/48/000000/bootstrap.png">
+     <img width="40px" alt="Bootstrap" src="https://img.icons8.com/color/48/000000/bootstrap.png">
    </a>
 </p>
 
 ### 👉 Software & Tools
  
-<p align="center">
-	<a href="#"><img width="75px" alt="sts" src="https://lalitk1997.github.io/img/logo-spring-tools-gear-3dbfa4e3714afa9d58885422ec7ac8e5.svg" /></a>
-	 <a href="#"><img width="75px" alt="intellij" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png"/></a>	
-   <a href = "#"><img width="75px" alt="vscode editer" src="https://lalitk1997.github.io/img/swagger.svg" /></a>
-  <a href = "#"><img width="75px" alt="vscode editer" src="https://img.icons8.com/color/344/visual-studio--v1.png" /></a>
-    <a href="#"><img width="75px" alt="Git" src="https://img.icons8.com/color/344/git.png" /></a>
-    <a href="#"><img width="75px" alt="GitHub" src="https://img.icons8.com/ios-filled/344/github.png" /></a>
+<p align="left">
+	<a href="#"><img width="40px" alt="sts" src="https://lalitk1997.github.io/img/logo-spring-tools-gear-3dbfa4e3714afa9d58885422ec7ac8e5.svg" /></a>
+	 <a href="#"><img width="40px" alt="intellij" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png"/></a>	
+   <a href = "#"><img width="40px" alt="vscode editer" src="https://lalitk1997.github.io/img/swagger.svg" /></a>
+  <a href = "#"><img width="40px" alt="vscode editer" src="https://img.icons8.com/color/344/visual-studio--v1.png" /></a>
+    <a href="#"><img width="40px" alt="Git" src="https://img.icons8.com/color/344/git.png" /></a>
+    <a href="#"><img width="40px" alt="GitHub" src="https://img.icons8.com/ios-filled/344/github.png" /></a>
 
 </p> 
 
 <hr color="Pink"/>
 
 ## 🏆 GitHub Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=br-lovanshi&column=8)](https://github-profile-trophy.vercel.app/?username=br-lovanshi&column=8)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Pritu2022&column=8)](https://github-profile-trophy.vercel.app/?username=Pritu2022&column=8)
 
 <hr color="blue"/>
 
