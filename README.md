@@ -86,7 +86,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 <hr color="Pink"/>
 
 ## 🏆 GitHub Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pritu2022&column=8)](https://github-profile-trophy.vercel.app/?username=Pritu2022&column=8)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Pritu2022&column=7)](https://github-profile-trophy.vercel.app/?username=Pritu2022&column=8)
 
 <hr color="blue"/>
 
