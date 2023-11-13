@@ -62,7 +62,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
    </a>
 </p>
 
-### 👩‍💻 Software & Tools 
+### 👩‍💻 Software & Tools. 
 <p align="left">
 	<a href="#"><img width="40px" alt="sts" src="https://lalitk1997.github.io/img/logo-spring-tools-gear-3dbfa4e3714afa9d58885422ec7ac8e5.svg" /></a>
 	  &emsp;
