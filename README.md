@@ -1,13 +1,13 @@
 <h1 align="center">Namaste 🙏, I am Pritu Yadav.</h1>
 <h3  align="center">
-A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, and web design, and web API designs. Problem-solving mindset with a goal to optimize my application for better stability and speed. Love to work in a team..</h3>
+A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, and web design, and web API designs. Problem-solving mindset to optimize my application for better stability and speed. Love to work in a team..</h3>
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=pritu2022&label=Profile%20views&color=0e75b6&style=flat" alt="pritu2022" /> </p>
 
 
 - 🌱 I’m currently learning **Data Structures and Algorithms** 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-- 👨‍💻 All of my details are available at [Resume](https://drive.google.com/file/d/1LrgVEyORUfrz9VA-CZ0ZXrG0GaHaWMQM/view?usp=sharing)
+- 👨‍💻 All of my details are available at [Resume](https://drive.google.com/file/d/14maCX9yD3cOwUszatpuVlvf36LpSEe9_/view?usp=sharing)
 - 👨‍💻 All of my projects are available at [Portfolio](https://pritu2022.github.io/)
 - 📫 How to reach me **erprituyadav@gmail.com**
  
