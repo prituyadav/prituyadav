@@ -60,6 +60,10 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 	<a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started" target="_blank"> 
      <img width="40px" alt="Bootstrap" src="https://img.icons8.com/color/48/000000/bootstrap.png">
    </a>
+	 &emsp;
+	<a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started" target="_blank"> 
+     <img width="40px" alt="Bootstrap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png">
+   </a>
 </p>
 
 ### 👩‍💻 Software & Tools. 
@@ -75,7 +79,6 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
     <a href="#"><img width="40px" alt="Git" src="https://img.icons8.com/color/344/git.png" /></a>
 	  &emsp;
     <a href="#"><img width="40px" alt="GitHub" src="https://img.icons8.com/ios-filled/344/github.png" /></a>
-
 </p> 
 
 <hr color="Pink"/>
