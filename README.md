@@ -2,13 +2,13 @@
 <h3  align="center">
 A passionate Java Developer, Dedicated to developing robust applications that interact with the various parts of web applications. Extensive expertise in website architecture, design, and web design, and web API designs. Problem-solving mindset to optimize my application for better stability and speed. Love to work in a team..</h3>
 
-<p align="left" > <img src="https://komarev.com/ghpvc/?username=pritu2022&label=Profile%20views&color=0e75b6&style=flat" alt="pritu2022" /> </p>
+<p align="left" > <img src="https://komarev.com/ghpvc/?username=prituyadav&label=Profile%20views&color=0e75b6&style=flat" alt="prituyadav" /> </p>
 
 
 - 🌱 I’m currently learning **Data Structures and Algorithms** 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 👨‍💻 All of my details are available at [Resume](https://drive.google.com/file/d/14maCX9yD3cOwUszatpuVlvf36LpSEe9_/view?usp=sharing)
-- 👨‍💻 All of my projects are available at [Portfolio](https://pritu2022.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://prituyadav.github.io/)
 - 📫 How to reach me **erprituyadav@gmail.com**
  
  ### 🚀 Technologies:
@@ -84,21 +84,21 @@ A passionate Java Developer, Dedicated to developing robust applications that in
 <hr color="Pink"/>
 
 ## 🏆 GitHub Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pritu2022&column=7&layout=compact&langs_count=8&theme=react)](https://github-profile-trophy.vercel.app/?username=Pritu2022&column=7&layout=compact&langs_count=8&theme=react)
+[![trophy](https://github-profile-trophy.vercel.app/?username=prituyadav&column=7&layout=compact&langs_count=8&theme=react)](https://github-profile-trophy.vercel.app/?username=prituyadav&column=7&layout=compact&langs_count=8&theme=react)
 
 <hr color="blue"/>
 
 ## 📊 My Github Stats
 <div display="flex">
-<a href="https://github.com/Pritu2022">
-  <img height="115em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pritu2022&show_icons=true&include_all_commits=true&count_private=true&theme=react"/>
-  <img height="115em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pritu2022&layout=compact&langs_count=8&theme=react" alt="Pritu Yadav" />
-  <img height="115em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pritu2022&layout=compact&langs_count=8&theme=react"/>
+<a href="https://github.com/prituyadav">
+  <img height="115em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=prituyadav&show_icons=true&include_all_commits=true&count_private=true&theme=react"/>
+  <img height="115em" src="https://github-readme-streak-stats.herokuapp.com/?user=prituyadav&layout=compact&langs_count=8&theme=react" alt="Pritu Yadav" />
+  <img height="115em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prituyadav&layout=compact&langs_count=8&theme=react"/>
 </a>
 </div>
 
  ##  ❤  Followers
-<a href="https://github.com/Pritu2022?tab=followers"><img src="https://img.shields.io/github/followers/Pritu2022?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/prituyadav?tab=followers"><img src="https://img.shields.io/github/followers/prituyadav?label=Followers&style=social" alt="GitHub Badge"></a>
 ### ✍️ Random Developer Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
 
