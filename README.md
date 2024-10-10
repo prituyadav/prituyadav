@@ -7,8 +7,6 @@ A passionate Java Developer, Dedicated to developing robust applications that in
 
 - 🌱 I’m currently learning **Data Structures and Algorithms** 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-- 👨‍💻 All of my details are available at [Resume](https://drive.google.com/file/d/14maCX9yD3cOwUszatpuVlvf36LpSEe9_/view?usp=shaaaaring)
-- 👨‍💻 All of my projects are available at [Portfolio](https://prituyadav.githubbb.io/)
 - 📫 How to reach me **erprituyadav@gmail.com**
  
  ### 🚀 Technologies:
