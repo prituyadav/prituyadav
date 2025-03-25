@@ -1,6 +1,6 @@
 <h1 align="center">Namaste 🙏, I am Pritu Yadav.</h1>
 <h3  align="center">
-A passionate Java Developer, Dedicated to developing robust applications that interact with the various parts of web applications. Extensive expertise in website architecture, design, and web design, and web API designs. Problem-solving mindset to optimize my application for better stability and speed. Love to work in a team..</h3>
+A passionate Backend Developer, Dedicated to developing robust applications that interact with the various parts of web applications. Extensive expertise in website architecture, design, and web design, and web API designs. Problem-solving mindset to optimize my application for better stability and speed. Love to work in a team..</h3>
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=prituyadav&label=Profile%20views&color=0e75b6&style=flat" alt="prituyadav" /> </p>
 
