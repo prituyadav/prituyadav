@@ -9,7 +9,7 @@ I am dedicated to developing robust applications that interact with the various 
 - 🌱 I’m currently learning **Data Structures and Algorithms** 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 📫 How to reach me **erprituyadav@gmail.com**
--  <a href="https://prituyadav.github.io/">Check out my portfolio</a>
+-  <a href="https://drive.google.com/file/d/14maCX9yD3cOwUszatpuVlvf36LpSEe9_/view">Check out my Resume</a>
  
  ### 🚀 Technologies:
 <p align="left" background-color="yellow"> 
