@@ -1,6 +1,6 @@
 <h1 align="center">Namaste 🙏, I am Pritu Yadav.</h1>
 <h3  align="center">
-I’m a Java Developer with ~3 yrs experience in Java, Spring Boot & REST APIs. Immediate joiner, actively seeking opportunities. Please consider my profile for any Java/SDE roles. 
+I’m a Java Developer with ~3 yrs experience in Java, Spring Boot & REST APIs. Immediate joiner, actively seeking opportunities.
 I am dedicated to developing robust applications that interact with the various parts of web applications. Extensive expertise in website architecture, design, and web design, and web API designs. Problem-solving mindset to optimize my application for better stability and speed. Love to work in a team..</h3>
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=prituyadav&label=Profile%20views&color=0e75b6&style=flat" alt="prituyadav" /> </p>
